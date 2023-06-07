@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+.vscode/*
+# Local History for Visual Studio Code
+.history/
+
+.DS_Store
