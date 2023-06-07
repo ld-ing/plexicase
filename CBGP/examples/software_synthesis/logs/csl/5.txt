@@ -1,0 +1,152 @@
+Gen		Median		MAD		Best		Div		Run Best		Code
+1		24400000.0		36.0		0.06		36.0		input1.isupper()
+2		57.0		36.0		0.108		36.0		input1.isupper()
+3		65.0		36.0		0.158		36.0		input1.isupper()
+4		55.0		36.0		0.185		36.0		input1.isupper()
+5		57.0		35.0		0.221		35.0		print_do(input1, eq(le(sub(len_(input1), 10), float2bool(10)), ne(len_(input1), True)))
+6		53.0		32.0		0.243		32.0		gt(input1.isprintable(), input3.lower().join(input2).isprintable())
+7		54.0		32.0		0.257		32.0		gt(input1.isprintable(), input3.lower().join(input2).isprintable())
+8		55.0		32.0		0.264		32.0		gt(input1.isprintable(), input3.lower().join(input2).isprintable())
+9		53.0		32.0		0.262		32.0		gt(input1.isprintable(), input3.lower().join(input2).isprintable())
+10		54.0		32.0		0.284		32.0		gt(input1.isprintable(), input3.lower().join(input2).isprintable())
+11		51.5		32.0		0.278		32.0		gt(input1.isprintable(), input3.lower().join(input2).isprintable())
+12		51.0		30.0		0.291		30.0		ne(le(int2float(input1.isprintable()), ne(add(input3, input2).isprintable(), input1.isupper())), le(10, 10))
+13		51.0		30.0		0.284		30.0		ne(le(int2float(input1.isprintable()), ne(add(input3, input2).isprintable(), input1.isupper())), le(10, 10))
+14		51.5		30.0		0.28		30.0		ne(le(int2float(input1.isprintable()), ne(add(input3, input2).isprintable(), input1.isupper())), le(10, 10))
+15		53.0		30.0		0.31		30.0		ne(le(int2float(input1.isprintable()), ne(add(input3, input2).isprintable(), input1.isupper())), le(10, 10))
+16		52.0		25.0		0.297		25.0		eq(int2float(le(float2int(len_(input1.join(str_(True)))), abs_(len_(input3)))), input1.isascii())
+17		51.0		25.0		0.288		25.0		eq(int2float(le(float2int(len_(input1.join(str_(True)))), abs_(len_(input3)))), input1.isascii())
+18		47.0		22.0		0.317		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+19		48.0		22.0		0.318		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+20		49.0		22.0		0.309		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+21		46.0		22.0		0.316		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+22		48.0		22.0		0.336		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+23		49.0		22.0		0.335		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+24		46.0		22.0		0.322		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+25		49.0		22.0		0.328		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+26		49.0		22.0		0.347		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+27		49.0		22.0		0.353		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+28		48.0		22.0		0.335		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+29		47.0		22.0		0.322		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+30		47.0		22.0		0.323		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+31		47.0		22.0		0.307		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+32		49.0		22.0		0.331		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+33		48.0		22.0		0.316		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+34		49.0		22.0		0.33		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+35		48.0		22.0		0.338		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+36		48.0		22.0		0.308		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+37		48.0		22.0		0.321		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+38		45.0		22.0		0.333		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+39		46.0		22.0		0.331		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+40		47.0		22.0		0.351		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+41		47.0		22.0		0.329		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+42		45.0		22.0		0.31		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+43		46.0		22.0		0.34		22.0		eq(int2float(le(float2int(len_(input1.join(str_(bool2float(True))))), abs_(len_(input3)))), input1.isascii())
+44		46.0		20.0		0.373		20.0		float2bool(int2float(le(len_(input1.lower()), sub(len_(input3), sub(10, True)))))
+45		45.0		20.0		0.37		20.0		float2bool(int2float(le(len_(input1.lower()), sub(len_(input3), sub(10, True)))))
+46		45.0		20.0		0.353		20.0		float2bool(int2float(le(len_(input1.lower()), sub(len_(input3), sub(10, True)))))
+47		46.0		20.0		0.352		20.0		float2bool(int2float(le(len_(input1.lower()), sub(len_(input3), sub(10, True)))))
+48		45.0		18.0		0.345		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+49		45.0		18.0		0.384		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+50		46.0		18.0		0.358		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+51		49.0		18.0		0.384		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+52		45.0		18.0		0.354		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+53		49.0		18.0		0.369		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+54		47.0		18.0		0.352		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+55		48.0		18.0		0.339		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+56		47.0		18.0		0.361		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+57		46.0		18.0		0.361		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+58		47.0		18.0		0.384		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+59		50.0		18.0		0.363		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+60		45.0		18.0		0.372		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+61		50.0		18.0		0.354		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+62		49.5		18.0		0.385		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+63		47.0		18.0		0.374		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+64		48.0		18.0		0.39		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+65		49.0		18.0		0.366		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+66		48.0		18.0		0.362		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+67		47.0		18.0		0.358		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+68		48.0		18.0		0.365		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+69		49.0		18.0		0.377		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+70		47.0		18.0		0.374		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+71		49.0		18.0		0.351		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+72		45.0		18.0		0.354		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+73		47.0		18.0		0.35		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+74		47.0		18.0		0.37		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+75		49.0		18.0		0.374		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+76		48.0		18.0		0.375		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+77		47.0		18.0		0.342		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+78		46.0		18.0		0.352		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+79		47.0		18.0		0.327		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+80		47.0		18.0		0.359		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+81		45.5		18.0		0.363		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+82		46.0		18.0		0.35		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+83		48.5		18.0		0.365		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+84		49.0		18.0		0.342		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+85		47.0		18.0		0.355		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+86		47.0		18.0		0.372		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+87		50.0		18.0		0.381		18.0		println_tap(lt(float2bool(int2float(input1.isnumeric())), min_(le(len_(input1.lower()), sub(len_(input3), 10)), True)))
+88		50.0		17.0		0.379		17.0		le(input3.isascii(), sub(div(len_(input3.title()), println_tap(max_(10, len_(input1)))), True))
+89		50.0		17.0		0.361		17.0		le(input3.isascii(), sub(div(len_(input3.title()), println_tap(max_(10, len_(input1)))), True))
+90		48.0		17.0		0.36		17.0		le(input3.isascii(), sub(div(len_(input3.title()), println_tap(max_(10, len_(input1)))), True))
+91		48.5		17.0		0.35		17.0		le(input3.isascii(), sub(div(len_(input3.title()), println_tap(max_(10, len_(input1)))), True))
+92		45.0		17.0		0.367		17.0		le(input3.isascii(), sub(div(len_(input3.title()), println_tap(max_(10, len_(input1)))), True))
+93		47.0		17.0		0.374		17.0		le(input3.isascii(), sub(div(len_(input3.title()), println_tap(max_(10, len_(input1)))), True))
+94		45.0		16.0		0.367		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+95		46.0		16.0		0.38		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+96		45.0		16.0		0.381		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+97		46.0		16.0		0.387		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+98		49.0		16.0		0.377		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+99		49.0		16.0		0.405		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+100		49.5		16.0		0.399		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+101		52.5		16.0		0.374		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+102		47.0		16.0		0.387		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+103		47.0		16.0		0.382		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+104		47.0		16.0		0.387		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+105		46.0		16.0		0.361		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+106		49.0		16.0		0.372		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+107		46.0		16.0		0.348		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+108		49.0		16.0		0.365		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+109		47.0		16.0		0.372		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+110		51.5		16.0		0.369		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+111		46.0		16.0		0.37		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+112		46.0		16.0		0.361		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+113		48.5		16.0		0.331		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+114		47.0		16.0		0.357		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+115		49.0		16.0		0.365		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+116		46.0		16.0		0.358		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+117		49.0		16.0		0.368		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+118		45.0		16.0		0.372		16.0		le(input1.isdigit(), sub(div(int2float(len_(input3)), max_(10, len_(input1))), 2))
+119		46.0		7.0		0.382		7.0		lt(len_(input2), floordiv(len_(println_tap(input3)), int2float(pos(ge(float2int(len_(input2.lstrip_ws())), println_tap(println_tap(neg(neg(len_(input1))))))))))
+120		45.0		0.0		0.32		0.0		lt(len_(input2), floordiv(len_(println_tap(input3)), int2float(pos(ge(float2int(len_(input2.lstrip_ws())), println_tap(println_tap(neg(sub(neg(len_(input1)), 1)))))))))
+Solution found.
+def compare_string_lengths(input1, input2, input3):
+    return lt(len_(input2), floordiv(len_(println_tap(input3)), int2float(pos(ge(float2int(len_(input2.lstrip_ws())), println_tap(println_tap(neg(sub(neg(len_(input1)), 1)))))))))
+
+Simplifying genome of length 48.
+Simplified to length 46.
+Simplified to length 45.
+Simplified to length 44.
+Simplified to length 43.
+Simplified to length 41.
+Simplified to length 37.
+Simplified to length 36.
+Simplified to length 33.
+Simplified to length 32.
+Simplified to length 31.
+Simplified to length 27.
+Simplified to length 24.
+Simplified to length 23.
+Simplified to length 22.
+Simplified to length 21.
+Simplified to length 20.
+Simplified to length 19.
+Simplified to length 17.
+Simplified to length 16.
+Simplified to length 15.
+Simplified genome: length=15 error=0.0
+def compare_string_lengths(input1, input2, input3):
+    return lt(len_(input2), floordiv(len_(input3), ge(len_(input2), neg(sub(neg(len_(input1)), 1)))))
+
+[0. 0. 0. ... 0. 0. 0.]
+Final Test Error: 13.0

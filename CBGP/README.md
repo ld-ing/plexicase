@@ -5,8 +5,11 @@ This implementation is built on the top of [Code Building Genetic Programming](h
 
 ## Experiments
 
+The experiments are tested with Python3.8.
+
 To run experiments with lexicase selection:
 ```
+cd CBGP
 python3 run_lexicase.py exp_id downsample_rate
 ```
 
