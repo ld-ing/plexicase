@@ -8,9 +8,11 @@ Li Ding, Thomas Helmuth, Edward Pantridge, and Lee Spector. 2023. Probabilistic 
 
 ## Updates 
 
+07/30/2023:
+- Code for a generic implementation of $\epsilon$-plexicase selection has been released, see `SRBench/ep-plexicase.py`.
+
 06/07/2023:
 - Code for program synthesis experiments has been released. Please refer to `/CBGP` for instructions. 
-
 
 
 ## Reference
